@@ -10,17 +10,17 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: bluesky
+        href: https://bsky.app/profile/tim-hofer.bsky.social
       - icon: github
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2026, Tim Hofer"
 
 format:
   html:
-    theme: cerulean
+    theme: cosmos
     toc: true
 
 editor: source

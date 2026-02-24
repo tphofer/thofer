@@ -3,7 +3,7 @@ title: "Timothy Hofer"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Hofer-2022.jpg
 ---
 
 :::{#me}
@@ -16,4 +16,5 @@ about:
 
 :::
 
-Thanks for checking out my web site!
+Under construction
+
