@@ -1,20 +1,79 @@
 ---
-title: "Timothy Hofer"
+title: "Timothy P. Hofer, MD"
+toc: false
 about:
   id: me
-  template: broadside
+  template: solana
   image: img/Hofer-2022.jpg
+  image-width: 200px
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:thofer@umich.edu
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=C_Poyg4AAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0003-0434-8787
 ---
 
 :::{#me}
 
-## Goals
+**Professor of Internal Medicine, Division of General Medicine**  
+University of Michigan Medical School
 
-## Education
+**Research Scientist**  
+VA Ann Arbor HSR&D Center of Innovation (CCMR Deputy Director and Co-Lead, Methods Core)
 
-## Experience
+**Staff Physician**  
+VA Ann Arbor Healthcare System
 
 :::
 
-Under construction
+---
 
+## Research Interests
+
+- Methods for prioritizing interventions in chronic disease and preventive services
+- Lack of precision in clinical measurement and its impact on clinical practice
+- Quality improvement in care for diabetes and other common chronic diseases
+- Quality measurement and monitoring in the complex patient
+
+## Methodology Interests
+
+- Research design, cluster randomized trials, quasi-experimental methods
+- Multilevel modeling applications in health service research
+- Measurement theory
+- Clinical risk adjustment
+
+---
+
+> *"For, medicine being a compendium of the successive and contradictory mistakes of doctors, even when we call in the best of them the chances are that we may be staking our hopes on some medical theory that will be proved false in a few years. So that to believe in medicine would be utter madness, were it not still a greater madness not to believe in it, for from this accumulation of errors a few valid theories have emerged in the long run."*
+>
+> — Marcel Proust, *In Search of Lost Time*
+
+---
+
+## Affiliations
+
+| | |
+|---|---|
+| [VA Center for Clinical Management Research (CCMR)](https://www.annarbor.hsrd.research.va.gov/ANNARBORHSRDRESEARCH/) | [UM Institute for Health Policy and Innovation (IHPI)](https://ihpi.umich.edu/) |
+| [HOPE](https://hope.medicine.umich.edu/) | [CANSORT](https://cansort.med.umich.edu/) |
+| [UM Health System (UMHS)](https://www.uofmhealth.org/) | [NCSP](https://www.ncsp.umich.edu/) |
+| [Center for Health Communications Research (CHCR)](https://chcr.umich.edu/) | [Michigan Experts](https://experts.umich.edu/3468-timothy-hofer) |
+
+---
+
+## Contact Information
+
+**VA Center for Clinical Management Research**  
+**UM Institute for Health Policy and Innovation**  
+North Campus Research Complex, Bldg 16, 3rd Fl.  
+University of Michigan Medical School  
+Ann Arbor, MI 48109-2800
+
+📧 thofer \[at\] umich \[dot\] edu
+
+**Administrative Specialist:** Debbie Shearer  
+📧 dshear \[at\] umich \[dot\] edu  
+📞 734.615.3636

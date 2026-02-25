@@ -1,9 +1,67 @@
 ---
-title: "Projects"
+title: "Publications & Research"
 ---
 
-## Project 1
+## Research Areas
 
-## Project 2
+### Quality Measurement & Improvement
+Work focused on measuring and improving the quality of care for diabetes and other chronic diseases, including methods for profiling physicians and health systems.
 
-## Project 3
+### Clinical Measurement & Precision
+Research on the lack of precision in clinical measurement and its downstream impact on clinical practice and decision-making.
+
+### Methods for Prioritizing Interventions
+Development and application of methods to prioritize interventions in chronic disease management and preventive services.
+
+### Methodology
+- Cluster randomized trial design and analysis
+- Quasi-experimental methods
+- Multilevel modeling in health services research
+- Clinical risk adjustment
+- Measurement theory
+
+---
+
+## Selected Publications
+
+Hofer TP, Kerr EA, Hayward RA. **What is an error?** *Effective Clinical Practice.* 2000;3(6):261–269.
+
+Hayward RA, Hofer TP. **Estimating hospital deaths due to medical errors: preventability is in the eye of the reviewer.** *JAMA.* 2001;286(4):415–420.
+
+Hofer TP, Hayward RA, Greenfield S, Wagner EH, Kaplan SH, Manning W. **The unreliability of individual physician report cards for assessing the costs and quality of care of a chronic disease.** *JAMA.* 1999;281(22):2098–2105.
+
+Katz SJ, Hofer TP. **Socioeconomic disparities in preventive care persist despite universal coverage: breast and cervical cancer screening in Ontario and the United States.** *JAMA.* 1994;272(7):530–534.
+
+Vijan S, Hofer TP, Hayward RA. **Estimated benefits of glycemic control in microvascular complications in type 2 diabetes.** *Annals of Internal Medicine.* 1997;127(9):788–795.
+
+Vijan S, Hofer TP, Hayward RA. **Cost-utility analysis of screening intervals for diabetic retinopathy in patients with type 2 diabetes mellitus.** *JAMA.* 2000;283(7):889–896.
+
+Heisler M, Vijan S, Anderson RM, Ubel PA, Bernstein SJ, Hofer TP. **When do patients and their physicians agree on diabetes treatment goals and strategies, and what difference does it make?** *Journal of General Internal Medicine.* 2003;18(11):893–902.
+
+Hayward RA, Hofer TP, Vijan S. **Narrative review: lack of evidence for recommended low-density lipoprotein treatment targets: a solvable problem.** *Annals of Internal Medicine.* 2006;145(7):520–530.
+
+Hayward RA, Kent DM, Vijan S, Hofer TP. **Multivariable risk prediction can greatly enhance the statistical power of clinical trial subgroup analysis.** *BMC Medical Research Methodology.* 2006;6(1):18.
+
+Krein SL, Hofer TP, Kerr EA, Hayward RA. **Whom should we profile? Examining diabetes care practice variation among primary care providers, provider groups, and health care facilities.** *Health Services Research.* 2002;37(5):1159–1180.
+
+Saint J, Wiese J, Amory JK, Bernstein ML, Patel UD, Zemencuk JK, Hofer TP, et al. **Are physicians aware of which of their patients have indwelling urinary catheters?** *The American Journal of Medicine.* 2000;109(6):476–480.
+
+Saint S, Kowalski CP, Kaufman SR, Hofer TP, Kauffman CA, Olmsted RN, et al. **Preventing hospital-acquired urinary tract infection in the United States: a national study.** *Clinical Infectious Diseases.* 2008;46(2):243–250.
+
+Rosenberg AL, Hofer TP, Hayward RA, Strachan C, Watts CM. **Who bounces back? Physiologic and other predictors of intensive care unit readmission.** *Critical Care Medicine.* 2001;29(3):511–518.
+
+Rosenberg AL, Hofer TP, Strachan C, Watts CM, Hayward RA. **Accepting critically ill transfer patients: adverse effect on a referral center's outcome and benchmark measures.** *Annals of Internal Medicine.* 2003;138(11):882–890.
+
+Vijan S, Hwang EW, Hofer TP, Hayward RA. **Which colon cancer screening test? A comparison of costs, effectiveness, and compliance.** *The American Journal of Medicine.* 2001;111(8):593–601.
+
+Vijan S, Stuart NS, Fitzgerald JT, Ronis DL, Hayward RA, Slater S, Hofer TP. **Barriers to following dietary recommendations in Type 2 diabetes.** *Diabetic Medicine.* 2005;22(1):32–38.
+
+Vijan S, Hayward RA, Ronis DL, Hofer TP. **Brief report: the burden of diabetes therapy: implications for the design of effective patient-centered treatment regimens.** *Journal of General Internal Medicine.* 2005;20:479–482.
+
+Nallamothu BK, Shojania KG, Saint S, Hofer TP, Humes HD, Moscucci M, et al. **Is acetylcysteine effective in preventing contrast-related nephropathy? A meta-analysis.** *The American Journal of Medicine.* 2004;117(12):938–947.
+
+Nallamothu BK, Normand SLT, Wang Y, Hofer TP, Brush JE Jr, et al. **Relation between door-to-balloon times and mortality after primary percutaneous coronary intervention over time: a retrospective study.** *The Lancet.* 2015;385(9973):1114–1122.
+
+---
+
+*For a complete list of publications, see [Google Scholar](https://scholar.google.com/citations?user=C_Poyg4AAAAJ) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hofer+TP%5BAuthor%5D).*
