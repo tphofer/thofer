@@ -8,15 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
+        aria-label: "Home page address"
       - href: research.qmd
         text: Research
+        aria-label: "Research page address"
       - href: projects.qmd
         text: Publications
+        aria-label: "Publications address"
     tools:
       - icon: bluesky
         href: https://bsky.app/profile/tim-hofer.bsky.social
+        aria-label: "Bluesky address"
       - icon: github
         href: https://github.com/tphofer/thofer
+        aria-label: "Github address"
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2026, Timothy P. Hofer"
